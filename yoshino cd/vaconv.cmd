@@ -1,0 +1,1 @@
+for %%a in (*.png) do ..\bin\vaconv.exe %%a -g2
